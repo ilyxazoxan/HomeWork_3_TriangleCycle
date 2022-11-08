@@ -3,8 +3,8 @@ public class TriangleCycle {
 
 
         for (int i = 0; i < 10; i++) {
-            int starCount = i;
-            for (int j = -1; j < starCount; j++) {
+            int drawing = i;
+            for (int j = -1; j < drawing; j++) {
                 System.out.print("3");
             }
 
